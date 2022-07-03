@@ -1,4 +1,4 @@
-# news_app
+# Shopping App
 
 A new Flutter project.
 
@@ -29,3 +29,5 @@ flutter pub get
     - models
     - modules
     - shared (Shared files)
+    
+    # Note: It's old project
